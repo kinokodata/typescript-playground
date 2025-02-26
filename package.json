@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "chart.js": "^4.4.7",
+    "typescript": "^5.7.2"
+  }
+}
